@@ -12,7 +12,7 @@ Therion is a simple bash script automating reconnaissance on WebApps for Penetra
 - Data Scraping.
 - File Creation & Information Categorization.
 
-## Requirements tools
+## Requirements
 - nmap
 - subjack 
 - assetfinder 
