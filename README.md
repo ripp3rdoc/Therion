@@ -1,4 +1,8 @@
-# Therion, A Reconnaissance Tool for WebApp Pentesters and Bug Bounty Hunters.
+# Therion
+
+## What is Therion?
+Therion is a simple bash script automating reconnaissance on WebApps for Penetration Testers and Bug Bounty Hunters.
+
 
 
 ## Features:
@@ -8,6 +12,11 @@
 - Data Scraping.
 - File Creation & Information Categorization.
 
+## Requirements tools
+- nmap
+- subjack 
+- assetfinder 
+- httprobe
 
 ## Basic Usage: 
 ```
